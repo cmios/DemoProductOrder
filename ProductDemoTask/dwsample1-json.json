@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Mac Mini 2023 Edition",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 60000,
+      "stock": 10,
+      "brand": "Apple",
+      "category": "Laptops",
+      "images": "macmini",
+      "isadd":false
+    },
+    {
+      "id": 2,
+      "title": "iPhone 14",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 41000,
+      "stock": 5,
+      "brand": "Apple",
+      "category": "smartphones",
+      "images": "mobile1",
+      "isadd":false
+    },
+    {
+      "id": 3,
+      "title": "Macbook Pro Edition",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 95500,
+      "stock": 30,
+      "brand": "Apple",
+      "category": "Laptop",
+      "images": "laptop",
+      "isadd":false
+    },
+    {
+      "id": 4,
+      "title": "Sony Wireless Headphones",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 12000,
+      "stock": 25,
+      "brand": "Apple",
+      "category": "Headphones",
+      "images": "headphone",
+      "isadd":false
+    },
+    {
+      "id": 5,
+      "title": "Apple Charger with Cable",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 1200,
+      "stock": 50,
+      "brand": "Apple",
+      "category": "Charger",
+      "images": "charger",
+      "isadd":false
+    },
+  ],
+
+  "total": 100,
+  "skip": 0,
+  "limit": 30
+}
+
